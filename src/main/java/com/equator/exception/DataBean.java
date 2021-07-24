@@ -8,7 +8,7 @@ import lombok.Data;
  **/
 @Data
 public class DataBean {
-    private String name;
+    private String name = "equator";
 
-    private int age;
+    private int age = 23;
 }

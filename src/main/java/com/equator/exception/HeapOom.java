@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 堆内存溢出 -Xms8m -Xmx8m
  * @Author: Equator
  * @Date: 2021/7/17 22:45
  **/
